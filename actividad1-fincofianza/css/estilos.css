@@ -26,7 +26,9 @@ Padding superior e inferior, para crear una pequeña separación y el texto just
 
 p, dd{
 	padding: 12px 0px;
-	color: #222;
+	/*color: #222;*/
+	color: black;
+
 	line-height: 1.4rem;
 	text-align: justify;
 }
@@ -50,7 +52,8 @@ blockquote{
 	font-size: 1.2rem;
 	line-height: 1.7rem;
 	text-align: justify;
-	color: #222;
+	/*color: #222;*/
+	color: black;
 }
 
 /* Cuando el bloque de la citas cambia de color le añadimos .gris
@@ -60,13 +63,14 @@ blockquote.gris{
 	background: #EEE;
 	font-size: 1rem;
 	border: 0;
-	border-left: 3px solid #DDD;
+	border-left: 3px solid #AAA;
 }
 
 /* Titulos, cambiamos la tipografía con la importada y damos el color a la fuente*/
 h1,h2,h3,.metadatos-articulo{
 	font-family: 'Domine', serif;
-	color: #222;
+	/*color: #222;*/
+	color: black
 }
 /* h3 y h3 le damos espacio y hacemos que tenga un peso más alto la fuente.*/
 h2,h3{
@@ -152,7 +156,8 @@ y no haya margenes entre enlaces.
 
 nav ul li a{
 	letter-spacing: 1px;
-	color: #222;
+	/*color: #222;*/
+	color: black;
 	padding: 8px 15px;
 	margin: 0px;
 }
