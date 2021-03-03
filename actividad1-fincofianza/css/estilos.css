@@ -13,6 +13,7 @@ Alejandro Carmona Martos
 body{
 	padding: 0;
 	margin: 0;
+	font-size: 14pt;
 	font-family: sans-serif; 
 }
 
@@ -79,7 +80,7 @@ h2,h3{
 	text-align: left;
 }
 /* Tamaño a los títulos */
-h2{font-size: 2.7rem;}
+h2{font-size: 2.4rem;}
 h3{font-size: 2rem;}
 
 /* Aumentamos el tamaño de los títulos de las descripciones y tipo de peso, además de dar margen.*/

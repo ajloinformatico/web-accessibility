@@ -25,6 +25,7 @@ body{
 	padding: 0;
     font-family: 'Lato', sans-serif;
     color:#000078;
+	font-size: 14pt;
 }
 
 /* Clase para forzar que los float tenga una altura suficiente */
@@ -37,7 +38,7 @@ h1,h2,h3{
     font-family: 'Merriweather', serif;
 }
 /* Tamaño de los títulos principales*/
-h1{font-size: 3.5rem;}
+h1{font-size: 2.5rem;}
 
 
 /* Quitamos la decoración por defecto de los enlaces para que no estén subrayados, 
